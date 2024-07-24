@@ -1,1 +1,1 @@
-update the Readme.md
+update the Readme.md to push and pull selenium framework
